@@ -1,1 +1,44 @@
 
+#ola {
+    text-align: center;
+    color: rgb(34, 40, 49);
+}
+
+#msg {
+    text-align: center;
+    font-size: 120%;
+    color: rgb(23, 107, 135)
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+#oladiv{
+    height: auto;
+    width: auto;
+    margin: 0px;
+    padding: 5px;
+    border: 15px;
+    text-align: center;
+    text-align:i;
+    border-radius: 5px;
+    background: rgb(251, 212, 109);
+    box-shadow: 3px 3px 0 rgb(79, 138, 139, 0.3);
+}
+
+#msgdiv{
+    height: 20px;
+    width: auto;
+    margin: 0px;
+    padding: 15px;
+    text-align: center;
+    background: rgb(251, 212, 109);
+    box-shadow: 3px 3px 0 rgb(79, 138, 139, 0.3);
+    border: 0px;
+    border-radius: 5px;
+}
+
+.topspaces{
+    font-size: xx-small;
+}
